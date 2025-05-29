@@ -15,5 +15,5 @@
 ## 🚀 Запуск проекта
 1. **Клонируйте репозиторий**  
    ```bash
-   git clone https://github.com/your-username/order-management-aop.git
-   cd order-management-aop
+   git clone https://github.com/Kerimallieva/OrderManagementSystem.git
+   cd OrderManagementSystem
